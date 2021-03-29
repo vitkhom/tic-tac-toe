@@ -1,0 +1,2 @@
+.title{text-align:center}.game,.title{margin:50px auto}.game{display:-webkit-flex;display:flex;-webkit-flex-wrap:wrap;flex-wrap:wrap;width:300px;height:300px;border:2px solid #000}.game__cell{width:100px;height:100px;border:1px solid #000;box-sizing:border-box;text-align:center;padding-top:15px;font-size:50px;font-weight:800}.clear-button{display:block;margin:auto;width:200px;height:40px;outline:none;border:2 solid #000;border-radius:10px;cursor:pointer;background-color:#deb887;text-transform:uppercase;font-weight:800}
+/*# sourceMappingURL=main.c472ac48.chunk.css.map */
