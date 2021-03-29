@@ -1,0 +1,39 @@
+.title {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.game {
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+  border: solid 2px black;
+}
+
+.game__cell {
+  width: 100px;
+  height: 100px;
+  border: solid 1px black;
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 15px;
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.clear-button {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 40px;
+  outline: none;
+  border: solid 2 px black;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: burlywood;
+
+  text-transform: uppercase;
+  font-weight: 800;
+}
